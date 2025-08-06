@@ -12,7 +12,7 @@ body{
     align-items: center;
     justify-content: center;
     text-align: center;
-    background: url(images/question-box.jpg) no-repeat center center fixed;
+    background: url(question-box.jpg) no-repeat center center fixed;
     background-size: cover;
     height: 100vh;
     width: 100%;
@@ -48,7 +48,7 @@ body{
     transition: opacity 1s ease;
 }
 .main-gift{
-    background: url(images/main-background.jpg)no-repeat center fixed;
+    background: url(main-background.jpg)no-repeat center fixed;
     background-size: cover;
 }
 
@@ -205,4 +205,5 @@ body{
         width: 80%;
         font-size: 1rem;
     }
+
 }
